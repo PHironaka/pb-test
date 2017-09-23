@@ -1,6 +1,7 @@
 ---
+title: home
 position: 2
-layout: home
+layout: page
 ---
 
 OPEN  OCTOBER 2017
