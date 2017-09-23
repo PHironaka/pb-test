@@ -227,15 +227,11 @@ padding-left: 2em;
   flex-direction: row;
   flex-wrap: wrap;
 
-  max-width: 15em;
+  max-width: 220px;
 margin: 0 auto;
   padding-right: 2em;
 padding-left: 2em;
 
-@media (max-width: 480px) {
-  max-width: 9em;
-
-}
 }
 
 
