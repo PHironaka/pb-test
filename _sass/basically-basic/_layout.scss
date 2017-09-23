@@ -223,15 +223,14 @@ padding-left: 2em;
 }
 
 .inner-header {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
 
   max-width: 220px;
 margin: 0 auto;
   padding-right: 2em;
 padding-left: 2em;
-
+@media (max-width: 480px) {
+  max-width:180px;
+}
 }
 
 
